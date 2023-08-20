@@ -10,7 +10,7 @@ Arduino + App Inventor - '날씨 알림 앱'
 ## ⚙️개발 환경
 App - App Inventor
 
-Arduino - C
+Arduino - C/C++
 
 ## 📌주요 기능
 Bluetooth 모듈을 사용해 스마트폰과 아두이노 연결
