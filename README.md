@@ -22,7 +22,8 @@ Bluetooth 모듈을 사용해 스마트폰과 아두이노 연결
 - 측정한 온습도 수치를 공식에 대입해 계산하여 측정
 #### 날씨 알림
 - 측정한 온습도 수치를 사용해 날씨 측정
-#### 하드웨어
+
+## 🖼️하드웨어 및 전체 사진
 ![IoT HW](https://github.com/ParkSeonBin/23.IoT-WeatherAlert/assets/95379549/409be299-89bc-4e2d-ae79-18064874a2b9)
 
 --- 
