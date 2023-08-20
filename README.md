@@ -1,5 +1,5 @@
 # 🌥️IoT Project-Weather Alert
-Arduino + Android Studio - '날씨 알림 앱'     
+Arduino + App Inventor - '날씨 알림 앱'     
 
 ## 💻프로젝트 소개
 현재 위치와 날씨를 알려주는 어플입니다.
@@ -8,11 +8,12 @@ Arduino + Android Studio - '날씨 알림 앱'
 22.10.30 - 22.12.13
 
 ## ⚙️개발 환경
-Android Studio - JAVA
+App - App Inventor
 
 Arduino - C
 
 ## 📌주요 기능
+Bluetooth 모듈을 사용해 스마트폰과 아두이노 연결
 #### 현재 위치
 - GPS를 사용해 현재 위치 확인
 #### 온습도
@@ -25,5 +26,5 @@ Arduino - C
 
 --- 
 #### 🔜향후 계획
-- UI 수정
+- App Inventor가 아닌 Android Studio로 다시 제작
 - 하드웨어 업그레이드
